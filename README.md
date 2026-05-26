@@ -4,6 +4,12 @@
 
 It is designed for academic revision workflows where the author provides reviewer comments, editor instructions, a manuscript draft, and optional author notes. The skill helps analyze each reviewer comment, draft bilingual response content when useful, generate polished English `Response to Reviewers` text, and format the final response letter as a professional `.docx`.
 
+## Example Output Preview
+
+The generated Word response letter separates reviewer comments, replies, and revised manuscript text clearly:
+
+![Example Word response page](assets/example-word-page.svg)
+
 ## What It Does
 
 - Translates each reviewer comment into Chinese for quick author understanding.
