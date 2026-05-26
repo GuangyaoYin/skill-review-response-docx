@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1180" viewBox="0 0 900 1180" role="img" aria-label="Example Word response page preview">
+  <rect width="900" height="1180" fill="#eef0f3"/>
+  <rect x="106" y="72" width="742" height="1032" rx="4" fill="#c9ccd1"/>
+  <rect x="88" y="54" width="742" height="1032" fill="#ffffff"/>
+  <style>
+    .title { font-family: "Times New Roman", Times, serif; font-size: 26px; font-weight: 700; fill: #1a1a1a; }
+    .author { font-family: "Times New Roman", Times, serif; font-size: 15px; fill: #1a1a1a; }
+    .body { font-family: "Times New Roman", Times, serif; font-size: 16px; fill: #1a1a1a; }
+    .bold { font-family: "Times New Roman", Times, serif; font-size: 17px; font-weight: 700; fill: #1a1a1a; }
+    .reviewer { font-family: "Times New Roman", Times, serif; font-size: 16px; fill: #1f4e79; }
+    .h1 { font-family: "Times New Roman", Times, serif; font-size: 23px; font-weight: 700; fill: #1a1a1a; }
+    .small { font-family: "Times New Roman", Times, serif; font-size: 12px; fill: #777777; }
+  </style>
+
+  <text class="title" x="132" y="102">
+    <tspan x="132" dy="0">Response to reviews of manuscript #GSAB-B39345 "Continental</tspan>
+    <tspan x="132" dy="32">megathrust earthquake potential partition coupled with the</tspan>
+    <tspan x="132" dy="32">geological mountain-building sequences in the great Nepal</tspan>
+    <tspan x="132" dy="32">Himalaya"</tspan>
+  </text>
+
+  <text class="author" x="132" y="235">Huai Zhang, Zhen Zhang, Lin Ding, Guangyao Yin, Yicun Guo, Yuanze Zhou, Yaolin Shi</text>
+
+  <text class="body" x="132" y="275">
+    <tspan x="132" dy="0">We greatly appreciate the Editor and reviewers for their insightful comments and</tspan>
+    <tspan x="132" dy="25">suggestions. We have carefully revised the manuscript and provide a point-by-point</tspan>
+    <tspan x="132" dy="25">response below.</tspan>
+  </text>
+
+  <text class="h1" x="132" y="370">Reviewer 1:</text>
+
+  <text class="reviewer" x="132" y="410">
+    <tspan x="132" dy="0">(1) The assumption of a spatially stable interseismic coupling pattern over the</tspan>
+    <tspan x="132" dy="24">entire Cenozoic provides a reasonable first-order simplification. It would be</tspan>
+    <tspan x="132" dy="24">helpful if the authors could briefly acknowledge this assumption and clarify its</tspan>
+    <tspan x="132" dy="24">limitations in the manuscript.</tspan>
+  </text>
+
+  <text class="bold" x="132" y="526">Reply:</text>
+  <text class="body" x="190" y="526">
+    <tspan x="190" dy="0">We thank the reviewer for this constructive suggestion. We agree that the</tspan>
+    <tspan x="190" dy="25">assumption of a spatially stable interseismic coupling pattern should be</tspan>
+    <tspan x="190" dy="25">stated more explicitly. In the revised manuscript, we have clarified that</tspan>
+    <tspan x="190" dy="25">the binary locked-creeping pattern is used as a first-order approximation</tspan>
+    <tspan x="190" dy="25">based on the present-day geodetic coupling pattern and the flat-ramp-flat</tspan>
+    <tspan x="190" dy="25">geometry of the MHT.</tspan>
+  </text>
+
+  <text class="bold" x="132" y="700">Revised manuscript text:</text>
+  <text class="body" x="132" y="737">
+    <tspan x="132" dy="0">To perform the mapping projection, we assume that the first-order locked-creeping</tspan>
+    <tspan x="132" dy="25">segmentation of the MHT has remained spatially stable during the main Cenozoic</tspan>
+    <tspan x="132" dy="25">evolution of the Nepal Himalayan wedge. Nevertheless, this treatment is a first-</tspan>
+    <tspan x="132" dy="25">order simplification. Long-term changes in fault geometry, thermal structure,</tspan>
+    <tspan x="132" dy="25">erosion, or regional tectonic configuration may have modified the exact position</tspan>
+    <tspan x="132" dy="25">and width of the coupling transition through time.</tspan>
+  </text>
+
+  <text class="reviewer" x="132" y="922">
+    <tspan x="132" dy="0">(2) The connection between the model results and present-day deformation could be</tspan>
+    <tspan x="132" dy="24">slightly strengthened by comparing the results with general patterns from existing</tspan>
+    <tspan x="132" dy="24">geodetic observations.</tspan>
+  </text>
+
+  <text class="bold" x="132" y="1025">Reply:</text>
+  <text class="body" x="190" y="1025">
+    <tspan x="190" dy="0">We appreciate this helpful suggestion. We have added a qualitative</tspan>
+    <tspan x="190" dy="25">comparison with GPS-derived interseismic coupling patterns along the MHT.</tspan>
+  </text>
+
+  <line x1="132" y1="1060" x2="785" y2="1060" stroke="#e1e1e1"/>
+  <text class="small" x="132" y="1085">Example preview generated from the review-response-docx skill format</text>
+  <text class="small" x="755" y="1085">Page 1</text>
+</svg>
