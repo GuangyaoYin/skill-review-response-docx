@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Response DOCX"
+  short_description: "Draft reviewer replies and polished Word response letters."
+  default_prompt: "Use $review-response-docx to analyze reviewer comments and create a polished Word response letter."
