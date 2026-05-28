@@ -35,6 +35,7 @@ For every reviewer comment, output all of the following in order unless the user
    - Describe what to add, delete, reorganize, soften, or clarify.
    - Suggest added evidence, data, citations, definitions, limitations, or logic bridges only when supported by the manuscript or user-provided facts.
    - Keep suggestions close to the author's original claims and conclusions.
+   - If a figure or table should change, identify the figure/table number, the exact proposed change, why it addresses the comment, and any caption/text that must be updated.
 
 5. **Final reply in Chinese**
    - Thank the reviewer.
@@ -52,6 +53,7 @@ For every reviewer comment, output all of the following in order unless the user
    - Include this only when manuscript text is modified or should be modified.
    - Provide the actual revised English paragraph for English manuscripts.
    - Keep the paragraph consistent with the manuscript's style and conclusions.
+   - Include the revised line range when available, using `Revised manuscript text (Lines X-Y):`.
    - Do not invent new experiments, results, citations, figures, or line numbers.
 
 8. **Missing information**
@@ -62,6 +64,7 @@ For every reviewer comment, output all of the following in order unless the user
      - study background or author intent
      - journal format requirements
      - exact revision location
+     - exact revised manuscript line numbers
 
 ## English Reply Pattern
 
@@ -85,5 +88,7 @@ We thank the reviewer for raising this point. We agree that [issue] is important
 - Do not answer only with "we have revised accordingly."
 - Do not claim a change was made unless the revised text is supplied or the user has confirmed it.
 - Do not fabricate page/line numbers.
+- Do not fabricate references. If a citation is only a likely candidate, mark it for user verification.
 - Do not cite convenience, time, or funding as the main reason for declining a request.
 - Do not accuse the reviewer of misunderstanding; frame it as a clarity issue in the manuscript.
+- Do not revise beyond the manuscript's evidence base or alter the study conclusions without explicit support.
