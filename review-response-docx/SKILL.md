@@ -25,7 +25,6 @@ Collect or infer:
 - journal style constraints, if supplied
 - figures/tables affected by reviewer comments
 - whether the user wants the full default package or only selected outputs
-- whether a journal-specific manuscript/PDF layout reference should be followed
 
 If key information is missing, continue with a draft but mark missing evidence explicitly. Do not invent line numbers, page numbers, experiments, citations, figure updates, or manuscript changes.
 
@@ -69,4 +68,3 @@ If key information is missing, continue with a draft but mark missing evidence e
 
 - Read `references/response-analysis.md` before drafting the point-by-point content.
 - Read `references/docx-format.md` before creating or editing the Word response document.
-- If the target journal is Wiley/Journal of Geophysical Research, or the user provides the SciSpace Wiley JGR format link, read `references/jgr-wiley-format.md` before formatting manuscript/PDF-style outputs.
