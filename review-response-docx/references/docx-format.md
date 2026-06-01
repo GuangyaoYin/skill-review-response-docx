@@ -13,6 +13,7 @@ Use this standard when creating or updating reviewer-response and manuscript-rev
 - Alignment:
   - title, authors, reviewer headings, reviewer comments: left aligned
   - reply body and revised manuscript text: justified when supported cleanly by the DOCX tool
+- If the user supplies a journal-specific format or PDF-style layout reference, preserve the response-letter clarity rules here while applying that reference to manuscript/PDF-style outputs.
 
 ## Front Matter
 
